@@ -1,0 +1,73 @@
+#+TITLE: How To Make Purchases with Cryptocurrency on Ethair
+
+Navigating a new purchasing system can be confusing, let alone one
+with a completely different form of payment.
+
+Purchasing items with cryptocurrencies is still a relatively new
+concept. Here is how the process will work on Ethair Marketplace.
+
+The initial portion is fairly straightforward and in line with most
+other shopping sites.
+
+Once you have found an item to purchase, whether through auction or
+traditional item posting, the following outlines what the process of
+purchasing with crypto looks like on Ethair.
+
+If the item is up for auction then you’ll get to a bidding page.
+
+#+CAPTION: Sample Bid Page
+[[../assets/purchase.png]]
+
+If your item is on a traditional listing then the page may look like
+this:
+
+#+CAPTION: Sample Listing Page
+[[../assets/another-purchase.png]]
+
+In either of the above cases, when a product is listed in crypto,
+underneath that price it is noted if the seller wants to also accept
+[[https://www.investopedia.com/terms/f/fiatmoney.asp][fiat]] (local currency). It is also noted whether the seller only
+accepts a specific cryptocurrency or multiple.
+
+All prices are based on current fiat and crypto rates. The price is
+locked in at the time of purchase.
+
+After winning an auction or selecting an item, the item is placed in
+user’s cart.
+
+#+CAPTION: Sample Cart Page
+[[../assets/shopping-cart.png]]
+
+Next you must complete the check-out steps.
+
+First, review that the shipping and billing addresses are correct.
+
+#+CAPTION: Sample Order Review Page
+[[../assets/review-order.png]]
+
+Then review your item, payment type, quantity and shipping
+speed. Don’t forget to apply points if applicable.
+
+[[../assets/shipped.png]]
+
+#+CAPTION: Sample Shipping Page
+[[../assets/reward-points.png]]
+
+Once all information is verified then you can place your order.
+
+#+CAPTION: Sample Order Summary
+[[../assets/place-order.png]]
+
+From here, the funds get deposited into a secure escrow account. The
+taxes and fees are taken from here. The seller is notified that the
+deposit has been made and then ships the item.
+
+Once the buyer receives the item, they then release the funds from
+escrow and the seller is notified that the funds are available.
+
+If there is an issue with the item the buyer has the option of
+starting the return process. We’ll discuss the return process in a
+future article.
+
+We look forward to delving into more specifics and features while we
+build up to the launch date!

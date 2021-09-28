@@ -1,0 +1,113 @@
+#+TITLE: Ethair Market is Taking on Amazon and eBay in a Move to Revolutionize the World of E-Commerce
+
+[[../assets/pitch.png]]
+
+*Ethair Market is a next generation online global marketplace where you*
+*can trade goods using fiat or cryptocurrency and earn points on every*
+*purchase. The marketplace is soon to be launched in the U.S. and*
+*Canada, with fiat payments support lined up for 43 more countries. You*
+*can earn ETHR tokens now as an early registration reward and future*
+*developments such as an NFT marketplace integration are already in the*
+*works.*
+
+*Introducing the Next Generation of eCommerce*
+
+[[https://www.ethair.com][Ethair Market]] incorporates the modern technologies that the
+traditional marketplaces are too afraid to tackle. It gives buyers and
+sellers an ability to operate with fiat currencies as well as selected
+cryptocurrencies. The developers have integrated Stripe for fiat
+payments which will allow the marketplace to support 45 countries,
+staying complaint with laws and regulations, and expand
+internationally with ease. At the upcoming launch the system will
+initially support the U.S. and Canada.
+
+For purchases using cryptocurrencies Ethair Market utilizes an escrow
+service which increases security on both ends of the spectrum as funds
+are held by the marketplace while the goods are being delivered. If
+something goes wrong during the process both parties may try to
+resolve it themselves or involve Ethair Market to step in and
+investigate. Escrow service gives both buyer and seller the security
+that the funds will be rightly deposited on the item’s
+arrival. Furthermore, it helps sellers deal with fraudulent buyers,
+deterring them with escrow deposit and keeping the seller safe from
+unexpected refunds.
+
+[[../assets/market.jpeg]]
+
+EthairPay is the proprietary payment processing platform that will
+allow users to make purchases and sales with cryptocurrency. It
+currently supports Bitcoin, Ethereum, Litecoin, Bitcoin Cash, Stellar,
+Ethereum Classic, Dogecoin, USDC and Ethair Token. The goal is to
+update this payment platform to such extent that third parties may
+seamlessly integrate it with their stores as well as add support for
+NFTs and Semi-NFTs on different blockchains.
+
+The Points reward system gives points to both buyer and the seller on
+each successful transaction. These points can be used to decrease the
+price of future purchases or boost the listed item desirability, as
+well as to mint ETHR tokens. Ethair Market’s ETHR Token allows for
+transactions between buyer and the seller without additional
+transaction fee charges. Fees which are drastically lower than on
+traditional marketplaces are decreased even further with the Points
+reward system.
+
+Currently the only way to obtain ETHR token is via early registration,
+where for limited time users earn 100 ETHR tokens [[https://www.ethair.com/][by signing up here]].
+Ethair is also currently running a referral program for a 1 year
+period where users are able to invite new users to the platform and
+for every referred user that made a purchase they’ll earn a share of
+ETHR Token from the Referral Program pool which is based upon the
+number of Points to ETHR Token conversions.
+
+[[../assets/headphones.jpg]]
+
+*Cheapest Way to Sell Online*
+
+If you are an online merchant looking to expand to a new platform that
+treats you more fairly than the current marketplaces, Ethair Market is
+the perfect place for you. For starters, Ethair Market has much lower
+fees than the traditional markets, meaning that everything from
+Insertion fees to FVF and various listing “upgrades” are lower than
+most traditional marketplace fees.
+
+With a Market (fixed price items, new items only) and “Buy Offer Bid”
+(auction items, new or used) selling formats, you are able to sell as
+a direct checkout as well as auctioning the items. *You sell, you
+choose.* On top of traditional marketing schemes, Ethair Market offers
+unique ways to promote your sales. For example, by adding Points to
+your listings, you increase desirability with the buyers as they get
+more rewards for purchasing your items.
+
+The Ethair store manager allows you to easily manage your listings,
+bulk upload, sync your listings count with your inventory stock and
+across multiple selling platforms, easily message the sellers, check
+which sales are pending shipping. Ethair Market also has multiple
+return policy rules which allow you to select the return rules under
+your own terms. Additional features allow you to customize your store
+to your liking, create your own categories and sort items in order to
+allow buyers to easily find desired items. You can also advertise
+selected store categories only. And verified sellers even have the
+ability to edit the store profile’s HTML code.
+
+[[../assets/fees.png]]
+
+As for future developments, the next big step for Ethair is the
+implementation of the NFT marketplace. This section is planned to have
+drastically lower fees, help the buyers and the sellers who are not
+tech savvy and introduce novelties to the whole system. Semi-NFTs are
+also on the developers’ radar and the EthairPay payment processor is
+on track to become compatible with every mintable state, as well as
+different blockchain smart contracts.
+
+Expansion into warehouse services is also on the list of future
+developments, as Ethair’s goal is to offer the best from all the
+traditional marketplaces and provide everything required for any type
+of seller. Another plan is to include a social media platform
+(“0xHello”) that would be inter-operable with the marketplace in order
+to easily create, list and sell NFTs. This would create a new and
+never seen before branch where influencers could potentially monetize
+every post they make, sell limited edition digital collections of
+cards, books and similar items.
+
+To learn more about the project visit [[https://www.ethair.com/][www.ethair.com]] and follow the
+latest developments on [[https://www.t.me/EthairMarket][Telegram]], [[https://www.discord.gg/UZkwECGUJJ][Discord]], [[https://www.facebook.com/EthairMarket/][Facebook]], and [[https://www.twitter.com/EthairMarket][Twitter]].

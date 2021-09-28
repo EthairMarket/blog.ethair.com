@@ -1,0 +1,38 @@
+#+TITLE: Hi. We're Ethair.
+
+In the last few years cryptocurrencies have exploded. What started
+with Bitcoin has expanded as a form of microeconomics. However, one of
+the downfalls has been how to spend these new currencies.
+
+That’s where we come in.
+
+Imagine being able to buy your everyday household items and much more
+with the cryptocurrency you’ve amassed. We’ve made that a reality.
+
+In the making since 2018 and launching in the third quarter of 2021 is
+this new digital marketplace.
+
+[[../assets/credit-card.jpeg]]
+
+With Ethair, buyers and sellers have the flexibility to choose what
+type of currency they deal in, either crypto or local currency. Local
+currency transactions are processed through Stripe. Crypto payments
+will be processed using a secure escrow account. Additionally, there
+is the option to use a fixed price or an auction.
+
+Both parties earn points with each transaction and those points can be
+used for future transactions.
+
+The current supported cryptos are: Bitcoin, Bitcoin Cash, Litecoin,
+Ethereum, Ethereum Classic, Dash and Z Cash. There are more to come
+and this list is subject to change.
+
+[[../assets/bitcoin-cash.jpeg]]
+
+Users can fill out the [[https://www.ethair.com/][early registration form]] on the website now in
+order to take advantage of the rewards pool. These rewards will be
+revealed at a later date. There is also a referral system where users
+get rewards for each member that signs up using their link.
+
+The exact launch date is still TBD. There is so much more that Ethair
+offers and more information will come as it get closer to launch!

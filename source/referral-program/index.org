@@ -1,0 +1,44 @@
+#+TITLE: Ethair Referral Program
+
+Spreading the word about Ethair is a mutually beneficial action. We
+get new users and you reap the benefits of our referral program.
+
+Each user is given a referral link to share with your friends and
+family. Any verified users with your link will get counted toward your
+total referrals. You can check your referral count, as well as
+shareable personal link in your account, under Referral Activity.
+
+The referral rewards pay out at the end of every month based on the
+percentage of new users you referred. Your number of referrals still
+counts after the end of each month as the total is cumulative.
+
+The rewards you receive are a share of an ETHR token, our proprietary
+crypto’s, reward pool. The EHTR token is accumulated on a monthly
+basis depending on the number of points users have converted to
+ETHR. Points are earned on each transaction.
+
+[[../assets/ethr-points.jpeg]]
+
+The more transactions on the marketplace, the more points users earn
+and can be converted to EHTR. This means the more people you refer,
+the more beneficial the program is all around.
+
+At the end of each month, accumulated token value is distributed among
+the referrers. The first payout will be will be by the end of the
+quarter following our launch, or sooner if possible.
+
+When users on the platform exchange their earned points into EHTR
+tokens, those points get multiplied by our smart contract. Every time
+a user exchanges points for the token, an extra 50% worth of the token
+is created. The referral pool gets 25% and the other 25% goes into a
+company owned account. This is so the amount of tokens in the pool is
+proportional to marketplace sales and requests exchange points can be
+fulfilled.
+
+Users will be able to see the current number of reward tokens in the
+pool in a pie chart that dynamically shows their share of the pool.
+
+Each user and each transaction can build up the amount of benefits
+users get from utilizing our services. These passive rewards means the
+time spent on our platform is productive to you and your actions on
+our site.

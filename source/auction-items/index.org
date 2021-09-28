@@ -1,0 +1,67 @@
+#+TITLE: How to Purchase Auction Items on Ethair.
+
+First thing’s first, a user finds an item they are interested in.
+
+[[../assets/interested-item.png]]
+
+Auctions on Ethair have a time limit set by the seller. They can last
+up to thirty days or be as short as a few minutes.
+
+The buyer will input the highest amount they are willing to pay for
+the item into the bid input field. They will be prompted to confirm
+the bid or be able to revise the max amount. If they are the first
+bidder, our system will automatically bid at the asking price. The max
+bid they input will be set in the background.
+
+If the next bidder comes in and makes an offer that is more than the
+asking price, but less than that max bid, then the system will bid for
+the user at $1 over the other bid. It will continue to do that after
+each bid until the user’s max bid is reached.
+
+If a seller has set a reserve price then the bid the the buyer places
+might not necessarily increase by $1. It will increase up to the
+maximum bid set by the buyer — but only if the current bid price is
+set less that the reserve price.
+
+For example: an item listed with has zero bids with a starting price
+of $15. The seller sets the reserve price at $85. The reserve price is
+only seen by seller. A buyer bids $75, their bid is set at that
+price. If another buyer comes in and puts a max bid of $100 then the
+system will bid $85 as that is the reserve price..
+
+Auctions are such that if the bidding doesn’t reach the reserve price,
+the item does not sell to the bidders. The price has to cross that
+threshold in order for the sale to happen, otherwise the auction
+cancels.
+
+If a user gets outbid, our system will let them know via our messaging
+widget, so they can take action and increase the bid if they wish.
+
+[[../assets/message.png]]
+
+Our automated proxy bidding system will make sure the user is always
+the highest bidder up to the maximum amount that was set. A user’s
+maximum bid can be increased at any time by entering a new amount in
+the bid window.
+
+The auction listing page shows users how many bids were placed so far
+on the item. It also will allow them to track the bids they placed, as
+well as bids placed by other users. The page will also show users
+which bids were proxy bids.
+
+Once a user places a bid on an item, it will automatically be added to
+their ‘Watch List’, which can be found under the ‘Lists’ icon in the
+header.
+
+[[../assets/watch-list.png]]
+
+Once the auction is won, the item will automatically be added to the
+user’s cart, where they can finish the checkout process and complete
+the transaction.
+
+If the user is paying with cryptocurrency, then they will go through
+our secure escrow process. If they are paying with their local
+currency, the transaction continues as a typical online sale.
+
+We look forward to showcasing more of our features as it gets closer
+to the launch date!
