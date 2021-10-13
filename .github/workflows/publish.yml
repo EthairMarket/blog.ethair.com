@@ -16,7 +16,7 @@ jobs:
         run: sudo apt install emacs-nox --yes
 
       - name: Build new site
-        uses: emacs --quick --script publish.el --funcall=ethair/publish
+        run: emacs --quick --script ./publish.el --funcall=ethair/publish
 
       - name: Publish generated content to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
