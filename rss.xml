@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Ethair's homepage</title>
+<description>(Abstract Abstract)</description>
+<generator>Emacs webfeeder.el</generator>
+<link>https://blog.ethair.com</link>
+<atom:link href="https://blog.ethair.com/rss.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Wed, 13 Oct 2021 13:10:23 +0000</lastBuildDate>
+<item>
+  <title>How to Purchase Auction Items on Ethair.</title>
+  <description><![CDATA[<div id="content">
+ <p>
+First thing’s first, a user finds an item they are interested in.
+</p>
+
+
+ <figure> <img src="../assets/interested-item.png" alt="interested-item.png"></img></figure> <p>
+Auctions on Ethair have a time limit set by the seller. They can last
+up to thirty days or be as short as a few minutes.
+</p>
+
+ <p>
+The buyer will input the highest amount they are willing to pay for
+the item into the bid input field. They will be prompted to confirm
+the bid or be able to revise the max amount. If they are the first
+bidder, our system will automatically bid at the asking price. The max
+bid they input will be set in the background.
+</p>
+
+ <p>
+If the next bidder comes in and makes an offer that is more than the
+asking price, but less than that max bid, then the system will bid for
+the user at $1 over the other bid. It will continue to do that after
+each bid until the user’s max bid is reached.
+</p>
+
+ <p>
+If a seller has set a reserve price then the bid the the buyer places
+might not necessarily increase by $1. It will increase up to the
+maximum bid set by the buyer — but only if the current bid price is
+set less that the reserve price.
+</p>
+
+ <p>
+For example: an item listed with has zero bids with a starting price
+of $15. The seller sets the reserve price at $85. The reserve price is
+only seen by seller. A buyer bids $75, their bid is set at that
+price. If another buyer comes in and puts a max bid of $100 then the
+system will bid $85 as that is the reserve price..
+</p>
+
+ <p>
+Auctions are such that if the bidding doesn’t reach the reserve price,
+the item does not sell to the bidders. The price has to cross that
+threshold in order for the sale to happen, otherwise the auction
+cancels.
+</p>
+
+ <p>
+If a user gets outbid, our system will let them know via our messaging
+widget, so they can take action and increase the bid if they wish.
+</p>
+
+
+ <figure> <img src="../assets/message.png" alt="message.png"></img></figure> <p>
+Our automated proxy bidding system will make sure the user is always
+the highest bidder up to the maximum amount that was set. A user’s
+maximum bid can be increased at any time by entering a new amount in
+the bid window.
+</p>
+
+ <p>
+The auction listing page shows users how many bids were placed so far
+on the item. It also will allow them to track the bids they placed, as
+well as bids placed by other users. The page will also show users
+which bids were proxy bids.
+</p>
+
+ <p>
+Once a user places a bid on an item, it will automatically be added to
+their ‘Watch List’, which can be found under the ‘Lists’ icon in the
+header.
+</p>
+
+
+ <figure> <img src="../assets/watch-list.png" alt="watch-list.png"></img></figure> <p>
+Once the auction is won, the item will automatically be added to the
+user’s cart, where they can finish the checkout process and complete
+the transaction.
+</p>
+
+ <p>
+If the user is paying with cryptocurrency, then they will go through
+our secure escrow process. If they are paying with their local
+currency, the transaction continues as a typical online sale.
+</p>
+
+ <p>
+We look forward to showcasing more of our features as it gets closer
+to the launch date!
+</p>
+</div>]]></description>
+  <link>https://blog.ethair.com/auction-items/index.html</link>
+  <guid isPermaLink="false">https://blog.ethair.com/auction-items/index.html</guid>
+  <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+  <title>Hi. We’re Ethair.</title>
+  <description><![CDATA[<div id="content">
+ <p>
+In the last few years cryptocurrencies have exploded. What started
+with Bitcoin has expanded as a form of microeconomics. However, one of
+the downfalls has been how to spend these new currencies.
+</p>
+
+ <p>
+That’s where we come in.
+</p>
+
+ <p>
+Imagine being able to buy your everyday household items and much more
+with the cryptocurrency you’ve amassed. We’ve made that a reality.
+</p>
+
+ <p>
+In the making since 2018 and launching in the third quarter of 2021 is
+this new digital marketplace.
+</p>
+
+
+ <figure> <img src="../assets/credit-card.jpeg" alt="credit-card.jpeg"></img></figure> <p>
+With Ethair, buyers and sellers have the flexibility to choose what
+type of currency they deal in, either crypto or local currency. Local
+currency transactions are processed through Stripe. Crypto payments
+will be processed using a secure escrow account. Additionally, there
+is the option to use a fixed price or an auction.
+</p>
+
+ <p>
+Both parties earn points with each transaction and those points can be
+used for future transactions.
+</p>
+
+ <p>
+The current supported cryptos are: Bitcoin, Bitcoin Cash, Litecoin,
+Ethereum, Ethereum Classic, Dash and Z Cash. There are more to come
+and this list is subject to change.
+</p>
+
+
+ <figure> <img src="../assets/bitcoin-cash.jpeg" alt="bitcoin-cash.jpeg"></img></figure> <p>
+Users can fill out the  <a href="https://www.ethair.com/">early registration form</a> on the website now in
+order to take advantage of the rewards pool. These rewards will be
+revealed at a later date. There is also a referral system where users
+get rewards for each member that signs up using their link.
+</p>
+
+ <p>
+The exact launch date is still TBD. There is so much more that Ethair
+offers and more information will come as it get closer to launch!
+</p>
+</div>]]></description>
+  <link>https://blog.ethair.com/hi-ethair/index.html</link>
+  <guid isPermaLink="false">https://blog.ethair.com/hi-ethair/index.html</guid>
+  <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+  <title>Ethair Market is Taking on Amazon and eBay in a Move to Revolutionize the World of E-Commerce</title>
+  <description><![CDATA[<div id="content">
+ <figure> <img src="../assets/pitch.png" alt="pitch.png"></img></figure> <p>
+ <b>Ethair Market is a next generation online global marketplace where you</b>
+ <b>can trade goods using fiat or cryptocurrency and earn points on every</b>
+ <b>purchase. The marketplace is soon to be launched in the U.S. and</b>
+ <b>Canada, with fiat payments support lined up for 43 more countries. You</b>
+ <b>can earn ETHR tokens now as an early registration reward and future</b>
+ <b>developments such as an NFT marketplace integration are already in the</b>
+ <b>works.</b>
+</p>
+
+ <p>
+ <b>Introducing the Next Generation of eCommerce</b>
+</p>
+
+ <p>
+ <a href="https://www.ethair.com">Ethair Market</a> incorporates the modern technologies that the
+traditional marketplaces are too afraid to tackle. It gives buyers and
+sellers an ability to operate with fiat currencies as well as selected
+cryptocurrencies. The developers have integrated Stripe for fiat
+payments which will allow the marketplace to support 45 countries,
+staying complaint with laws and regulations, and expand
+internationally with ease. At the upcoming launch the system will
+initially support the U.S. and Canada.
+</p>
+
+ <p>
+For purchases using cryptocurrencies Ethair Market utilizes an escrow
+service which increases security on both ends of the spectrum as funds
+are held by the marketplace while the goods are being delivered. If
+something goes wrong during the process both parties may try to
+resolve it themselves or involve Ethair Market to step in and
+investigate. Escrow service gives both buyer and seller the security
+that the funds will be rightly deposited on the item’s
+arrival. Furthermore, it helps sellers deal with fraudulent buyers,
+deterring them with escrow deposit and keeping the seller safe from
+unexpected refunds.
+</p>
+
+
+ <figure> <img src="../assets/market.jpeg" alt="market.jpeg"></img></figure> <p>
+EthairPay is the proprietary payment processing platform that will
+allow users to make purchases and sales with cryptocurrency. It
+currently supports Bitcoin, Ethereum, Litecoin, Bitcoin Cash, Stellar,
+Ethereum Classic, Dogecoin, USDC and Ethair Token. The goal is to
+update this payment platform to such extent that third parties may
+seamlessly integrate it with their stores as well as add support for
+NFTs and Semi-NFTs on different blockchains.
+</p>
+
+ <p>
+The Points reward system gives points to both buyer and the seller on
+each successful transaction. These points can be used to decrease the
+price of future purchases or boost the listed item desirability, as
+well as to mint ETHR tokens. Ethair Market’s ETHR Token allows for
+transactions between buyer and the seller without additional
+transaction fee charges. Fees which are drastically lower than on
+traditional marketplaces are decreased even further with the Points
+reward system.
+</p>
+
+ <p>
+Currently the only way to obtain ETHR token is via early registration,
+where for limited time users earn 100 ETHR tokens  <a href="https://www.ethair.com/">by signing up here</a>.
+Ethair is also currently running a referral program for a 1 year
+period where users are able to invite new users to the platform and
+for every referred user that made a purchase they’ll earn a share of
+ETHR Token from the Referral Program pool which is based upon the
+number of Points to ETHR Token conversions.
+</p>
+
+
+ <figure> <img src="../assets/headphones.jpg" alt="headphones.jpg"></img></figure> <p>
+ <b>Cheapest Way to Sell Online</b>
+</p>
+
+ <p>
+If you are an online merchant looking to expand to a new platform that
+treats you more fairly than the current marketplaces, Ethair Market is
+the perfect place for you. For starters, Ethair Market has much lower
+fees than the traditional markets, meaning that everything from
+Insertion fees to FVF and various listing “upgrades” are lower than
+most traditional marketplace fees.
+</p>
+
+ <p>
+With a Market (fixed price items, new items only) and “Buy Offer Bid”
+(auction items, new or used) selling formats, you are able to sell as
+a direct checkout as well as auctioning the items.  <b>You sell, you
+choose.</b> On top of traditional marketing schemes, Ethair Market offers
+unique ways to promote your sales. For example, by adding Points to
+your listings, you increase desirability with the buyers as they get
+more rewards for purchasing your items.
+</p>
+
+ <p>
+The Ethair store manager allows you to easily manage your listings,
+bulk upload, sync your listings count with your inventory stock and
+across multiple selling platforms, easily message the sellers, check
+which sales are pending shipping. Ethair Market also has multiple
+return policy rules which allow you to select the return rules under
+your own terms. Additional features allow you to customize your store
+to your liking, create your own categories and sort items in order to
+allow buyers to easily find desired items. You can also advertise
+selected store categories only. And verified sellers even have the
+ability to edit the store profile’s HTML code.
+</p>
+
+
+ <figure> <img src="../assets/fees.png" alt="fees.png"></img></figure> <p>
+As for future developments, the next big step for Ethair is the
+implementation of the NFT marketplace. This section is planned to have
+drastically lower fees, help the buyers and the sellers who are not
+tech savvy and introduce novelties to the whole system. Semi-NFTs are
+also on the developers’ radar and the EthairPay payment processor is
+on track to become compatible with every mintable state, as well as
+different blockchain smart contracts.
+</p>
+
+ <p>
+Expansion into warehouse services is also on the list of future
+developments, as Ethair’s goal is to offer the best from all the
+traditional marketplaces and provide everything required for any type
+of seller. Another plan is to include a social media platform
+(“0xHello”) that would be inter-operable with the marketplace in order
+to easily create, list and sell NFTs. This would create a new and
+never seen before branch where influencers could potentially monetize
+every post they make, sell limited edition digital collections of
+cards, books and similar items.
+</p>
+
+ <p>
+To learn more about the project visit  <a href="https://www.ethair.com/">www.ethair.com</a> and follow the
+latest developments on  <a href="https://www.t.me/EthairMarket">Telegram</a>,  <a href="https://www.discord.gg/UZkwECGUJJ">Discord</a>,  <a href="https://www.facebook.com/EthairMarket/">Facebook</a>, and  <a href="https://www.twitter.com/EthairMarket">Twitter</a>.
+</p>
+</div>]]></description>
+  <link>https://blog.ethair.com/news-bitcoin/index.html</link>
+  <guid isPermaLink="false">https://blog.ethair.com/news-bitcoin/index.html</guid>
+  <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+  <title>How To Make Purchases with Cryptocurrency on Ethair</title>
+  <description><![CDATA[<div id="content">
+ <p>
+Navigating a new purchasing system can be confusing, let alone one
+with a completely different form of payment.
+</p>
+
+ <p>
+Purchasing items with cryptocurrencies is still a relatively new
+concept. Here is how the process will work on Ethair Marketplace.
+</p>
+
+ <p>
+The initial portion is fairly straightforward and in line with most
+other shopping sites.
+</p>
+
+ <p>
+Once you have found an item to purchase, whether through auction or
+traditional item posting, the following outlines what the process of
+purchasing with crypto looks like on Ethair.
+</p>
+
+ <p>
+If the item is up for auction then you’ll get to a bidding page.
+</p>
+
+
+ <figure> <img src="../assets/purchase.png" alt="purchase.png"></img> <figcaption> <span class="figure-number">Figure 1: </span>Sample Bid Page</figcaption></figure> <p>
+If your item is on a traditional listing then the page may look like
+this:
+</p>
+
+
+ <figure> <img src="../assets/another-purchase.png" alt="another-purchase.png"></img> <figcaption> <span class="figure-number">Figure 2: </span>Sample Listing Page</figcaption></figure> <p>
+In either of the above cases, when a product is listed in crypto,
+underneath that price it is noted if the seller wants to also accept
+ <a href="https://www.investopedia.com/terms/f/fiatmoney.asp">fiat</a> (local currency). It is also noted whether the seller only
+accepts a specific cryptocurrency or multiple.
+</p>
+
+ <p>
+All prices are based on current fiat and crypto rates. The price is
+locked in at the time of purchase.
+</p>
+
+ <p>
+After winning an auction or selecting an item, the item is placed in
+user’s cart.
+</p>
+
+
+ <figure> <img src="../assets/shopping-cart.png" alt="shopping-cart.png"></img> <figcaption> <span class="figure-number">Figure 3: </span>Sample Cart Page</figcaption></figure> <p>
+Next you must complete the check-out steps.
+</p>
+
+ <p>
+First, review that the shipping and billing addresses are correct.
+</p>
+
+
+ <figure> <img src="../assets/review-order.png" alt="review-order.png"></img> <figcaption> <span class="figure-number">Figure 4: </span>Sample Order Review Page</figcaption></figure> <p>
+Then review your item, payment type, quantity and shipping
+speed. Don’t forget to apply points if applicable.
+</p>
+
+
+ <figure> <img src="../assets/shipped.png" alt="shipped.png"></img></figure> <figure> <img src="../assets/reward-points.png" alt="reward-points.png"></img> <figcaption> <span class="figure-number">Figure 6: </span>Sample Shipping Page</figcaption></figure> <p>
+Once all information is verified then you can place your order.
+</p>
+
+
+ <figure> <img src="../assets/place-order.png" alt="place-order.png"></img> <figcaption> <span class="figure-number">Figure 7: </span>Sample Order Summary</figcaption></figure> <p>
+From here, the funds get deposited into a secure escrow account. The
+taxes and fees are taken from here. The seller is notified that the
+deposit has been made and then ships the item.
+</p>
+
+ <p>
+Once the buyer receives the item, they then release the funds from
+escrow and the seller is notified that the funds are available.
+</p>
+
+ <p>
+If there is an issue with the item the buyer has the option of
+starting the return process. We’ll discuss the return process in a
+future article.
+</p>
+
+ <p>
+We look forward to delving into more specifics and features while we
+build up to the launch date!
+</p>
+</div>]]></description>
+  <link>https://blog.ethair.com/purchases/index.html</link>
+  <guid isPermaLink="false">https://blog.ethair.com/purchases/index.html</guid>
+  <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+</item>
+<item>
+  <title>Ethair Referral Program</title>
+  <description><![CDATA[<div id="content">
+ <p>
+Spreading the word about Ethair is a mutually beneficial action. We
+get new users and you reap the benefits of our referral program.
+</p>
+
+ <p>
+Each user is given a referral link to share with your friends and
+family. Any verified users with your link will get counted toward your
+total referrals. You can check your referral count, as well as
+shareable personal link in your account, under Referral Activity.
+</p>
+
+ <p>
+The referral rewards pay out at the end of every month based on the
+percentage of new users you referred. Your number of referrals still
+counts after the end of each month as the total is cumulative.
+</p>
+
+ <p>
+The rewards you receive are a share of an ETHR token, our proprietary
+crypto’s, reward pool. The EHTR token is accumulated on a monthly
+basis depending on the number of points users have converted to
+ETHR. Points are earned on each transaction.
+</p>
+
+
+ <figure> <img src="../assets/ethr-points.jpeg" alt="ethr-points.jpeg"></img></figure> <p>
+The more transactions on the marketplace, the more points users earn
+and can be converted to EHTR. This means the more people you refer,
+the more beneficial the program is all around.
+</p>
+
+ <p>
+At the end of each month, accumulated token value is distributed among
+the referrers. The first payout will be will be by the end of the
+quarter following our launch, or sooner if possible.
+</p>
+
+ <p>
+When users on the platform exchange their earned points into EHTR
+tokens, those points get multiplied by our smart contract. Every time
+a user exchanges points for the token, an extra 50% worth of the token
+is created. The referral pool gets 25% and the other 25% goes into a
+company owned account. This is so the amount of tokens in the pool is
+proportional to marketplace sales and requests exchange points can be
+fulfilled.
+</p>
+
+ <p>
+Users will be able to see the current number of reward tokens in the
+pool in a pie chart that dynamically shows their share of the pool.
+</p>
+
+ <p>
+Each user and each transaction can build up the amount of benefits
+users get from utilizing our services. These passive rewards means the
+time spent on our platform is productive to you and your actions on
+our site.
+</p>
+</div>]]></description>
+  <link>https://blog.ethair.com/referral-program/index.html</link>
+  <guid isPermaLink="false">https://blog.ethair.com/referral-program/index.html</guid>
+  <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+</item>
+</channel>
+</rss>
